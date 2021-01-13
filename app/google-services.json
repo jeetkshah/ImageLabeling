@@ -1,0 +1,167 @@
+{
+  "project_info": {
+    "project_number": "1049456992524",
+    "firebase_url": "https://redmed-db917.firebaseio.com",
+    "project_id": "redmed-db917",
+    "storage_bucket": "redmed-db917.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049456992524:android:48088859158ddf270fe929",
+        "android_client_info": {
+          "package_name": "com.jsd.customimagemodellabeling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049456992524-kj48hbjf43l404c77e4nlcjntr6mqki2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jsd.customimagemodellabeling",
+            "certificate_hash": "9186987f700e17d8935c88a404917a6f3ee142ed"
+          }
+        },
+        {
+          "client_id": "1049456992524-1a8670bue0e482vd92bsq547rtjvp7gh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmgC4XEVhnKRzraSdYhi0FYiMfOzoYPOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049456992524-1a8670bue0e482vd92bsq547rtjvp7gh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049456992524:android:bcc1ed9bc4b0d8ae0fe929",
+        "android_client_info": {
+          "package_name": "com.jsd.finalimagelabeling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049456992524-akha39p56t6gj27rvthlugp8e9ju3gub.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jsd.finalimagelabeling",
+            "certificate_hash": "9186987f700e17d8935c88a404917a6f3ee142ed"
+          }
+        },
+        {
+          "client_id": "1049456992524-1a8670bue0e482vd92bsq547rtjvp7gh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmgC4XEVhnKRzraSdYhi0FYiMfOzoYPOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049456992524-1a8670bue0e482vd92bsq547rtjvp7gh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049456992524:android:331e0b58f667ab4e0fe929",
+        "android_client_info": {
+          "package_name": "com.jsd.red_med"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049456992524-2i4fj692s1foa6kutpqbj1ii6tofh0rc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jsd.red_med",
+            "certificate_hash": "7fe8196328cdead56e29cd5575ff934e0b4ef4ef"
+          }
+        },
+        {
+          "client_id": "1049456992524-46lp8rp485dq4oele2uraq1904i6ghen.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jsd.red_med",
+            "certificate_hash": "9186987f700e17d8935c88a404917a6f3ee142ed"
+          }
+        },
+        {
+          "client_id": "1049456992524-1a8670bue0e482vd92bsq547rtjvp7gh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmgC4XEVhnKRzraSdYhi0FYiMfOzoYPOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049456992524-1a8670bue0e482vd92bsq547rtjvp7gh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049456992524:android:40f6b9caa9f38c1a0fe929",
+        "android_client_info": {
+          "package_name": "com.jsd.redmed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049456992524-02kqn73lu1s0d1tkbfi4fhnteldjr44v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jsd.redmed",
+            "certificate_hash": "9186987f700e17d8935c88a404917a6f3ee142ed"
+          }
+        },
+        {
+          "client_id": "1049456992524-1a8670bue0e482vd92bsq547rtjvp7gh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmgC4XEVhnKRzraSdYhi0FYiMfOzoYPOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049456992524-1a8670bue0e482vd92bsq547rtjvp7gh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        tools:layout_editor_absoluteX="16dp">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:text="Detect Medicines"
+            android:layout_marginStart="80dp"
+            android:layout_marginLeft="80dp"
+            android:textAllCaps="false"
+            android:textColor="@color/colorPrimary"
+            android:textSize="25sp"
+            />
+
+    </androidx.appcompat.widget.Toolbar>
+
+    <View
+        android:id="@+id/view"
+        android:layout_below="@id/toolbar"
+        android:background="@color/colorPrimary"
+        android:layout_width="match_parent"
+        android:layout_height="2dp"/>
+
+    <ImageView
+        android:id="@+id/img"
+        android:layout_below="@id/view"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_margin="20dp"
+        android:tooltipText="Image holder" />
+
+    <TextView
+        android:id="@+id/txt_tip"
+        android:textSize="23dp"
+        android:layout_marginTop="150dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Select an image first."
+        android:textAlignment="center"
+        android:gravity="center_horizontal"
+        android:textColor="@color/common_google_signin_btn_text_light_default"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@color/colorPrimary"
+        android:layout_below="@id/img"/>
+
+    <TextView
+        android:id="@+id/txt_label"
+        android:textSize="23dp"
+        android:layout_marginTop="5dp"
+        android:layout_below="@id/img"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Detected Medicine: "
+        android:textAlignment="center"
+        android:gravity="center_horizontal"
+        android:textColor="@color/colorPrimary"/>
+
+    <TextView
+        android:id="@+id/txt"
+        android:textSize="20dp"
+        android:layout_marginTop="5dp"
+        android:layout_below="@id/txt_label"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:lineSpacingExtra="3dp"
+        android:textAlignment="center"
+        android:gravity="center_horizontal"
+        android:textColor="@color/colorPrimary"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_detect"
+        android:text="choose Image"
+        android:textSize="20sp"
+        android:textColor="#fff"
+        android:layout_margin="20dp"
+        android:background="@color/colorPrimary"
+        android:layout_alignParentBottom="true"
+        />
+
+</RelativeLayout>
